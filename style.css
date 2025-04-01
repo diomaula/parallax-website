@@ -60,6 +60,7 @@ header {
     font-size: 5em;
     color: #fff;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, .2);
+    z-index: 3;
 }
 
 .parallax img {
@@ -74,6 +75,7 @@ header {
     position: relative;
     background-color: #003329;
     padding: 100px;
+    z-index: 4;
 }
 
 .sec h2 {
